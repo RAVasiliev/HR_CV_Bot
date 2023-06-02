@@ -1,4 +1,4 @@
-#  Copyright (c) ChernV (@otter18), 2021.
+
 
 import os
 import random
